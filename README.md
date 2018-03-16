@@ -1,2 +1,2 @@
-# A Basic Full Screen Scaling
+# A Basic Full Screen Scaling Example
 This is a minimal example for GM: Studio 2.0, presenting a display resolution independent screen scaling setup. This is useful for learning how to set up zooming in and out in a GM game and for building a game without worrying about graphical glitches due to interpolation. This project does not show how to handle scaling for HTML5 targets.
